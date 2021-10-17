@@ -1,0 +1,12 @@
+{
+  "homepage": "https://agaze.xyz/Autoconnect-BOT",
+  "bugs": "https://github.com/hz0000/Autoconnect-BOT/issues",
+  "author": "https://github.com/hz0000",
+  "version": "1.0",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.23.0",
+    "colors": "^1.4.0",
+    "discord.js": "^13.2.0"
+  }
+}
